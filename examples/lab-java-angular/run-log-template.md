@@ -1,0 +1,11 @@
+# Traza
+- Fecha:
+- Harness/versión:
+- Agente:
+- Skill:
+- Tools/MCP:
+- Aprobaciones:
+- Archivos:
+- Comandos y exit codes:
+- Hallazgos:
+- Resultado:
